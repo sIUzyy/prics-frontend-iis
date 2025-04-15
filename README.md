@@ -26,7 +26,7 @@ Electronic Proof of Delivery (ePOD) is built with React.js, Tailwind CSS, and Sh
 
 **Server:** Express JS
 
-**Database:** MongoDB
+**Database:** MS SQL Server
 
 ## Installation
 
@@ -43,8 +43,8 @@ note: When you download Node.js, npm will be installed automatically.
 After installing all the required dependencies, you can proceed with the procedure below.
 
 ```bash
-  git clone 'https://github.com/sIUzyy/prics-epod-appt.git'
-  cd prics-epod-appt
+  git clone 'https://github.com/sIUzyy/prics-frontend-iis.git'
+  cd prics-frontend-iis
   npm install
   npm run dev
 ```
